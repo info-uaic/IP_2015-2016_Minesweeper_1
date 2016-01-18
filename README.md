@@ -2,7 +2,7 @@
 This repo will hold one of the Minesweeper projects
 
 
-Project made on Code::Blocks 13.12. 
+Project made on Code::Blocks 13.12, language C++.
 
 
 Running the source code may fail on some versions of Visual Studio because of one or more of the followings:
