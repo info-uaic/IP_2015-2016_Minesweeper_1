@@ -1,6 +1,19 @@
-# IP_2015-2016_Minesweeper_1
-This repo will hold one of the Minesweeper projects
+Minesweeper 1
+---
 
+####Faculty of Computer Science, "Alexandru Ioan Cuza" University
+
+**University year:** 2015-2016
+
+**Author:** Chile Ovidiu Benone
+
+**Course:** Introduction to programming
+
+---
+
+This projects was built for the Introduction in programming course. The purpose of the project was to prove the understanding of basic programming concepts in the C++ language.
+
+---
 
 Project made on Code::Blocks 13.12, language C++.
 
